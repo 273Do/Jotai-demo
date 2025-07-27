@@ -1,7 +1,9 @@
-import React from "react";
-
 const ComponentsB = () => {
-  return <div>ComponentsB</div>;
+  return (
+    <div>
+      <p>ADD TODO</p>
+    </div>
+  );
 };
 
 export default ComponentsB;
